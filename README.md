@@ -15,8 +15,11 @@ MySQL integration for persistent data storage.
 TECH STACK (Technology & Description)
 
 Java (JDK 24) - Core programming language
+
 Java Swing - GUI framework for desktop interfaces 
+
 JDBC - Java Database Connectivity to MySQL
+
 MySQL - Database for persistence
 
 ---
