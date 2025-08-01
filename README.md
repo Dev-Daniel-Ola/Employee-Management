@@ -1,9 +1,10 @@
-EMPLOYEE MANAGEMENT SYSTEM 
+Employee Management System
 
-This is a desktop-based CRUD application built to manage a company's record of employment history. It was built with JAVA SWING for GUI and MySQL for database integration. This project simulates production-level Java desktop application. It follows clean code practices, integrates with MySQL for data persistence and uses Java Swing for a structured GUI. 
+This is a desktop-based CRUD application built to manage a company's record of employment history. It was built with Java Swing for GUI and MySQL for database integration. This project simulates a production-level Java desktop application. It follows clean code practices, integrates with MySQL for data persistence and uses Java Swing for a structured GUI. 
 
 It is designed with job-ready code quality and modular design in mind, making it suitable for further development.
 
+---
 FEATURES
 
 Add, view, update, delete, and search employee records.
