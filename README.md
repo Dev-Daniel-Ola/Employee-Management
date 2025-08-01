@@ -5,7 +5,7 @@ This is a desktop-based CRUD application built to manage a company's record of e
 It is designed with job-ready code quality and modular design in mind, making it suitable for further development.
 
 ---
-FEATURES
+Features
 
 Add, view, update, delete, and search employee records.
 
@@ -24,7 +24,7 @@ JDBC - Java Database Connectivity to MySQL
 MySQL - Database for persistence
 
 ---
-PROJECT STRUCTURE 
+Project Structure 
 
 /Employee_Management |---EmployeeManagement.java
 #Contains the GUI, logic, database connection code and SQL logic in a single file 
